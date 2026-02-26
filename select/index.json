@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Long Way 2 Go",
+  "base_artist": "Cassie",
+  "createdAt": "2026-02-26T14:30:28.156906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just a Little Lovin' (Will Go a Long, Long Way)",
+      "artist": "Eddy Arnold",
+      "has_synced": false,
+      "path": "select/01_Just_a_Little_Lovin'_(Will_Go_a_Long,_Long_Way)_Eddy_Arnold.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Long Long Way",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Long_Long_Way_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Long Way",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/03_The_Long_Way_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Long Way",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/04_The_Long_Way_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come a Long Way",
+      "artist": "Loudon Wainwright III",
+      "has_synced": true,
+      "path": "select/05_Come_a_Long_Way_Loudon_Wainwright_III.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way from Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/06_Yes!_I_Am_a_Long_Way_from_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way From Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/07_Yes!_I_Am_a_Long_Way_From_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Little Love Goes A Long Way - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/08_A_Little_Love_Goes_A_Long_Way_-_Piano_Demo_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way from Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/09_Yes!_I_Am_a_Long_Way_from_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Long Way Up - Mixed",
+      "artist": "Courage",
+      "has_synced": true,
+      "path": "select/10_Long_Way_Up_-_Mixed_Courage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long Way Up",
+      "artist": "Courage",
+      "has_synced": true,
+      "path": "select/11_Long_Way_Up_Courage.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Long Way from Home",
+      "artist": "The Vaughan Brothers",
+      "has_synced": true,
+      "path": "select/12_Long_Way_from_Home_The_Vaughan_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Long, Long Way To Go",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/13_Long,_Long_Way_To_Go_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Long Time, A Long Way To Go",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/14_A_Long_Time,_A_Long_Way_To_Go_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Long Way to Go",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/15_Long_Way_to_Go_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Long Way Home",
+      "artist": "ATB",
+      "has_synced": true,
+      "path": "select/16_Long_Way_Home_ATB.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Long Way Home",
+      "artist": "ATB",
+      "has_synced": true,
+      "path": "select/17_Long_Way_Home_ATB.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Take the Long Way Home",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/18_Take_the_Long_Way_Home_Faithless.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Long Way 2 Go",
+      "artist": "Cassie",
+      "has_synced": false,
+      "path": "select/pl_01_Long_Way_2_Go_Cassie.txt"
+    }
+  ]
+}
